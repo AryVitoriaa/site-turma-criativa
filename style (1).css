@@ -1,3 +1,6 @@
-body{
+header{
 background-color: pink;
+}
+.cabecalho-imagem{
+    width: 30%;
 }
